@@ -1,2 +1,4 @@
-# TransferLearningCatsDogs
-Projeto criado para aplicar os conceitos de transfer learning, criando um dataset com aproximadamente 400 imagens com 2 categorias: Dogs e Cats.
+# Machine Learning
+Projeto criado para aplicar os conceitos de machine learning, como:
+  - Transfer learning;
+  - cálculo de métricas.
